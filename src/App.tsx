@@ -296,13 +296,30 @@ const MENU: MenuItem[] = [
   {
     id: "set-2gu",
     category: "답례",
-    name: "2구 답례세트(예시)",
+    name: "2구 답례세트",
     price: null,
-    desc: "도장 백설기 + 영양떡 + 라벨 + 꽃",
-    allergens: ["견과"],
+    desc: "2구 구성 + 라벨 + 꽃포장",
+    allergens: [],
     tags: ["답례", "선물"],
     bestseller: true,
-    image: "set-2gu.jpg"
+    image: "https://goldhand001.cafe24.com/KakaoTalk_20250910_131828862.jpg"
+    unitPrice: 4000,
+    moqPack: "30세트",
+    moqPrice: 120000
+  },
+  {
+    id: "set-3gu",
+    category: "답례",
+    name: "3구 답례세트",
+    price: null,
+    desc: "3구 구성 + 라벨 + 꽃포장",
+    allergens: [],
+    tags: ["답례", "선물"],
+    bestseller: true,
+    image: "https://goldhand001.cafe24.com/KakaoTalk_20250910_131829106.jpg"
+    unitPrice: 5500,
+    moqPack: "30세트",
+    moqPrice: 165000
   },
   {
     id: "palgakso",
