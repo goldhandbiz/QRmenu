@@ -50,7 +50,7 @@ const MENU: MenuItem[] = [
     allergens: [],
     tags: ["담백", "정성",],
     bestseller: false,
-    image: "https://금손방앗간.com/web/product/medium/202502/575335aac9088c673075a1a08a803422.jpg",
+    image: "https://goldhand001.cafe24.com/%EB%B0%B1%EC%84%A4%EA%B8%B02.png",
     unitPrice: 1000,
     moqPack: "1판(36개)",
     moqPrice: 28000
@@ -64,7 +64,7 @@ const MENU: MenuItem[] = [
     allergens: [],
     bestseller: true,
     tags: ["간식", "촉촉"],
-    image: "https://금손방앗간.com/web/product/medium/202501/9c19af55ddb53746c70be71f77c50fc2.jpg",
+    image: "https://goldhand001.cafe24.com/%EA%BF%80%EC%84%A4%EA%B8%B03.png",
     unitPrice: 1100,
     moqPack: "1판(36개)",
     moqPrice: 30000
@@ -78,7 +78,7 @@ const MENU: MenuItem[] = [
     allergens: [],
     tags: ["계절", "상큼"],
     newItem: false,
-    image: "https://금손방앗간.com/web/product/medium/202501/5f42df0efd75dfff0948c76b146b59eb.jpg",
+    image: "https://goldhand001.cafe24.com/%EB%94%B8%EA%B8%B0%EC%84%A4%EA%B8%B0.png",
     unitPrice: 1300,
     moqPack: "1판(30개)",
     moqPrice: 39000
@@ -92,7 +92,7 @@ const MENU: MenuItem[] = [
     allergens: [],
     tags: ["상큼", "촉촉"],
     newItem: false,
-    image: "https://금손방앗간.com/web/product/medium/202501/5e393ae40f7fb79ca3c21268c8f95731.jpg",
+    image: "https://goldhand001.cafe24.com/%EB%B8%94%EB%A3%A8%EB%B2%A0%EB%A6%AC%EC%84%A4%EA%B8%B0.png",
     unitPrice: 1300,
     moqPack: "1판(30개)",
     moqPrice: 39000
@@ -120,7 +120,7 @@ const MENU: MenuItem[] = [
     allergens: [],
     tags: ["달콤", "간식"],
     newItem: false,
-    image: "https://금손방앗간.com/web/product/medium/202502/b8e7f74a1c10329cad3375267297331f.jpg",
+    image: "https://goldhand001.cafe24.com/%EC%B4%88%EC%BD%94%EC%84%A4%EA%B8%B0.png",
     unitPrice: 1500,
     moqPack: "1판(30개)",
     moqPrice: 45000
@@ -148,7 +148,7 @@ const MENU: MenuItem[] = [
     allergens: [],
     tags: ["달달", "쫀득"],
     bestseller: true,
-    image: "https://금손방앗간.com/web/product/medium/202502/ea605e483e49d62f2999c12a4182af3d.jpg",
+    image: "https://goldhand001.cafe24.com/%EC%99%84%EB%91%90%EB%B0%B0%EA%B8%B0.png",
     unitPrice: 1500,
     moqPack: "1판(30개)",
     moqPrice: 45000
@@ -162,7 +162,7 @@ const MENU: MenuItem[] = [
     allergens: ["견과"],
     tags: ["든든", "건강"],
     bestseller: true,
-    image: "https://금손방앗간.com/web/product/medium/202502/01e7107c365d9aa8655c3003451e1d26.jpg",
+    image: "https://goldhand001.cafe24.com/%EC%98%81%EC%96%91%EB%96%A12.png",
     unitPrice: 1500,
     moqPack: "1판(30개)",
     moqPrice: 45000
@@ -176,7 +176,7 @@ const MENU: MenuItem[] = [
     allergens: [],
     tags: ["모시", "쫀득"],
     newItem: false,
-    image: "https://금손방앗간.com/web/product/medium/202502/fa5c29aa40b5ae7d291e8c8643b9757d.jpg",
+    image: "https://goldhand001.cafe24.com/%EB%AA%A8%EC%8B%9C%EC%86%A1%ED%8E%B8.png",
     unitPrice: 1500,
     moqPack: "20개(40알)",
     moqPrice: 30000
@@ -190,7 +190,7 @@ const MENU: MenuItem[] = [
     allergens: [],
     tags: ["흑임자", "고소"],
     newItem: false,
-    image: "https://금손방앗간.com/web/product/medium/202502/8a83409f787b0a5323d7d021b97c200d.jpg",
+    image: "https://goldhand001.cafe24.com/%ED%9D%91%EC%9E%84%EC%9E%90%EB%A7%90%EC%9D%B4.png",
     unitPrice: 1500,
     moqPack: "1줄(30개)",
     moqPrice: 45000
@@ -246,12 +246,12 @@ const MENU: MenuItem[] = [
     allergens: ["잣"],
     tags: ["화사", "쫀득"],
     newItem: false,
-    image: "https://금손방앗간.com/web/product/medium/202502/06dce54c399fcc231c69401330411d46.jpg",
+    image: "https://goldhand001.cafe24.com/%EA%BD%83%EC%86%A1%ED%8E%B82.jpg",
     unitPrice: null,
     moqPack: "1세트",
     moqPrice: 36000
   },
-  {
+/*   {
     id: "susu",
     category: "상차림",
     name: "수수경단",
@@ -264,7 +264,7 @@ const MENU: MenuItem[] = [
     unitPrice: null,
     moqPack: "1세트",
     moqPrice: 26000
-  },
+  }, */
   {
     id: "samsek",
     category: "상차림",
