@@ -302,7 +302,7 @@ const MENU: MenuItem[] = [
     allergens: [],
     tags: ["답례", "선물"],
     bestseller: true,
-    image: "https://goldhand001.cafe24.com/KakaoTalk_20250910_131828862.jpg"
+    image: "https://goldhand001.cafe24.com/KakaoTalk_20250910_131828862.jpg",
     unitPrice: 4000,
     moqPack: "30세트",
     moqPrice: 120000
@@ -316,7 +316,7 @@ const MENU: MenuItem[] = [
     allergens: [],
     tags: ["답례", "선물"],
     bestseller: true,
-    image: "https://goldhand001.cafe24.com/KakaoTalk_20250910_131829106.jpg"
+    image: "https://goldhand001.cafe24.com/KakaoTalk_20250910_131829106.jpg",
     unitPrice: 5500,
     moqPack: "30세트",
     moqPrice: 165000
