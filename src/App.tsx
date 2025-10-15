@@ -53,7 +53,7 @@ const MENU: MenuItem[] = [
     image: "https://goldhand001.cafe24.com/%EB%B0%B1%EC%84%A4%EA%B8%B02.png",
     unitPrice: 1000,
     moqPack: "1판(36개)",
-    moqPrice: 28000
+    moqPrice: 33000
   },
   {
     id: "ggul-seolgi",
@@ -67,7 +67,7 @@ const MENU: MenuItem[] = [
     image: "https://goldhand001.cafe24.com/%EA%BF%80%EC%84%A4%EA%B8%B03.png",
     unitPrice: 1100,
     moqPack: "1판(36개)",
-    moqPrice: 30000
+    moqPrice: 35000
   },
   {
     id: "strawberry-seolgi",
@@ -207,7 +207,7 @@ const MENU: MenuItem[] = [
     image: "https://금손방앗간.com/web/product/medium/202502/ec11c19a74f7e9112467dd27adeea7af.jpg",
     unitPrice: 1500,
     moqPack: "1판(30개)",
-    moqPrice: 40000
+    moqPrice: 45000
   },
   {
     id: "3jong",
@@ -221,7 +221,7 @@ const MENU: MenuItem[] = [
     image: "https://금손방앗간.com/web/product/medium/202502/a491a1632dfa005a9e6fab27d2772212.jpg",
     unitPrice: null,
     moqPack: "1세트",
-    moqPrice: 86000
+    moqPrice: 90000
   },
   {
     id: "9gu",
@@ -277,7 +277,7 @@ const MENU: MenuItem[] = [
     image: "https://금손방앗간.com/web/product/medium/202501/d95ddec6e272eed2486a95754757d944.jpg",
     unitPrice: null,
     moqPack: "1세트",
-    moqPrice: 26000
+    moqPrice: 30000
   },
   {
     id: "ggul",
@@ -291,7 +291,7 @@ const MENU: MenuItem[] = [
     image: "https://금손방앗간.com/web/product/medium/202502/3800537d25e7e1a98cdd10dd8267558c.jpg",
     unitPrice: null,
     moqPack: "1세트",
-    moqPrice: 26000
+    moqPrice: 30000
   },
   {
     id: "set-2gu",
